@@ -80,23 +80,23 @@ class ProfilePage extends StatelessWidget {
                 UserInfoTile(
                   margin: EdgeInsets.only(bottom: 16),
                   label: 'Email',
-                  value: 'reinazahradummy@gmail.com',
+                  value: 'Jiso@gmail.com',
                 ),
                 UserInfoTile(
                   margin: EdgeInsets.only(bottom: 16),
                   label: 'Full Name',
-                  value: 'Reina Zahra Azizah',
+                  value: 'Jisso',
                 ),
-                UserInfoTile(
-                  margin: EdgeInsets.only(bottom: 16),
-                  label: 'Subscription Type',
-                  value: 'Premium Subscription',
-                  valueBackground: AppColor.secondary,
-                ),
+                // UserInfoTile(
+                //   margin: EdgeInsets.only(bottom: 16),
+                //   label: 'Subscription Type',
+                //   value: 'Premium Subscription',
+                //   valueBackground: AppColor.secondary,
+                // ),
                 UserInfoTile(
                   margin: EdgeInsets.only(bottom: 16),
                   label: 'Subscription Time',
-                  value: 'Until 22 Oct 2021',
+                  value: 'Until 19 Jun 2023',
                 ),
               ],
             ),
